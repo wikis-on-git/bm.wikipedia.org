@@ -6,20 +6,6 @@
 | style="border-top:1px solid #006699;" align="left" bgcolor="#EAF5FB"|
 <p>'''[[Wikipedia]]''' be '''projet''' d''''[[encyclopédie]]''' gansan, ''écrite coopérativement et dont le contenu est réutilisable selon les conditions de la [[Licence de documentation libre GNU]]''. ''Vous pouvez 
 [[Aide:consultation|consulter]] un article ou participer vous-même au projet [[Aide:Premiers pas|tout de suite]]'' !<br /><br />Lisez le [[Aide:Comment modifier une page|mode d'emploi]], la [[Aide:FAQ|FAQ]] ou faites des tests dans le [[Wikipédia:Bac à sable|bac à sable]]. Dans le Wikipedia en Bambara, '''{{NUMBEROFARTICLES}}&nbsp;articles''' sont en cours d'élaboration. Une liste des [[Special:Newpages|articles récemment créés]] est disponible.</p>
-|}
-|}
-
-<br />
-
-{| cellspacing="0" cellpadding="0" style="border-left:1px solid #006699; border-right:1px solid #996600;"
-| valign="top" bgcolor="#EAF5FB" style="border-bottom:1px solid #006699; border-right:1px solid #006699;"|
-{| cellspacing="0" cellpadding="5" 
-| align="center" bgcolor="#ECE5CA" COLSPAN=2 |<big>Encyclopédie</big>
-|- bgcolor="#FAF9EC" valign="top"
-| style="border-top:1px solid #996600;" |
-{{Index-thématique}}<div style="float: right;"><small>[{{SERVER}}{{localurl:Modèle:Index-thématique|action=edit}}   Modifier]</small></div></td>
-|}
-|}
 
 Awbi seka sebe yanno!
 
@@ -29,9 +15,16 @@ Si vous parlez [[Bambara]] '''vous''' pouvez aider créer un Encyclopédie en Ba
 
 '''''Allez-y. Traduisez ce page et commencez votre Encyclopédie.'''''
 
-
 <!-- Pour plus d'information (Kùnnàfoni) il y a  -->
 Kà fàra o kàn, nyemada [http://fr.wikipedia.org faransikan Wikipedia] kàn.
+|}
+|}
+{| cellspacing="1" cellpadding="5"  style="border:1px solid #006699;"
+| align="center" bgcolor="#ECE5CA" COLSPAN=2 |<big>Encyclopédie</big>
+|- bgcolor="#FAF9EC" valign="top"
+| style="border-top:1px solid #996600;" | {{Index-thématique}} 
+<div style="float: right;"><small>[{{SERVER}}{{localurl:Modèle:Index-thématique|action=edit}}  Modifier]</small></div></td>
+|}
 
 
 [[ar:]]
