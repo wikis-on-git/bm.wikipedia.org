@@ -1,28 +1,6 @@
 {| cellspacing="0" cellpadding="0" style="border-left:1px solid #006699; border-right:1px solid #996600;"
 | width="40%" valign="top" bgcolor="#EAF5FB" style="border-bottom:1px solid #006699; border-right:1px solid #006699;"|
-{| cellspacing="0" cellpadding="5" style="border-top:1px solid #006699;"
-| align="center" bgcolor="#D0E2EE" |<big>A ni sogoma! - Bienvenue sur Wikipedia</big>
-|-
-| style="border-top:1px solid #006699;" align="left" bgcolor="#EAF5FB"|
-<p>
-'''[[Wikipedia]]''' ka projet [[encyclopedie]] gansan ka sɛbɛ nyogo fɛ, ka ''dont le contenu est réutilisable selon les conditions de la [[Licence de documentation libre GNU]]''. ''Vous pouvez [[Aide:consultation|consulter]] un article ou participer vous-même au projet [[Aide:Premiers pas|tout de suite]]'' !
-
-''Lisez le [[Aide:Comment modifier une page|mode d'emploi]], la [[Aide:FAQ|FAQ]] ou faites des tests dans le [[Wikipédia:Bac à sable|bac à sable]].'' '''sígídaw&nbsp;{{NUMBEROFARTICLES}}''' be ''en cours d'élaboration'' Bamanankan ka Wikipedia fe. ''Une liste des'' [[Special:Newpages|sígídaw kura]] ''est disponible.''
-</p>
-
-Awbi se kɛ sɛbɛ yanno!
-I ni ce!
-Faransikan yɛ le mali kata [[bamanankan]]!
-
-''Voir [[Wikipedia:sìgìni bamanakan|sìgìni bamanakan]] pour des conseils comment on peut écrire en bamanakan.''
-
-Kunnafoni were, aw bɛ taa yoronnina [http://fr.wikipedia.org faransikan Wikipedia].
-
-----
-
-[http://mali.geekcorps.org Geekcorps Mali] est en train d'organiser un '''[[Wikipedia:Concours de lancement|Concours de lancement]]''' du Wikipedia Bambara.
-
-|}
+{{Acceuil-Introduction}}
 |}
 {| cellspacing="1" cellpadding="5"  style="border:1px solid #006699;"
 | align="center" bgcolor="#ECE5CA" COLSPAN=2 |<big>'''Encyclopédie'''</big>
