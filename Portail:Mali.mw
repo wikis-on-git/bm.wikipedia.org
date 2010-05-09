@@ -1,0 +1,46 @@
+{{son projet}}
+{{Projet:Mali/Boutons}}<!--Ce portail utilise un modèle pour chaque section. Vous ne devez donc pas (sauf exeption) éditer cette page directement, mais la sous-page concernée.-->
+{{Portail:Mali/Entête}}
+
+<div style="width:55%;float:left;">  <!--DEBUT DE LA FRAME GAUCHE -->
+{{Composant portail|nsportail=1|titre= Géographie|partie=Portail:Mali/Géographie
+ |tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre=Histoire |partie=Portail:Mali/Histoire |tailleTitre=100% |couleur1=#EAFFDF |couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Culture et Éducation|partie=Portail:Mali/Culture
+ |tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Peuples et Langues|partie=Portail:Mali/Peuples et Langues
+|tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Économie|partie=Portail:Mali/Économie
+|tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Le projet|tailleTitre=100% |partie=Portail:Mali/Projet|
+couleur1=#EAFFDF |couleur2=#aaffaa}}
+</div> <!-- FIN FRAME GAUCHE -->
+
+<div style="width:44%;float:right;"> <!-- DEBUT DE LA FRAME DROITE -->
+{{Composant portail|nsportail=1|titre= Le Mali en Afrique |tailleTitre=100% |partie=Portail:Mali/Cartes|couleur1=#EAFFDF |couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Lumière sur|tailleTitre=100% |partie=Portail:Mali/Lumière sur
+|couleur1=#EAFFDF |couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Le savez-vous ?|tailleTitre=100% |partie=Portail:Mali/Le savez-vous ?| couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Société|partie=Portail:Mali/Société
+ |tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Sport|partie=Portail:Mali/Sport
+ |tailleTitre=100% |couleur1=#EAFFDF |couleur2=#aaffaa}}
+{{Composant portail|nsportail=1|titre= Politique|partie=Portail:Mali/Politique
+|tailleTitre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+</div> <!-- FIN FRAME DROITE -->
+{{clr}}
+
+{{Composant portail|nsportail=1|titre= Autres Portails Africains|partie=Portail:Afrique/Portail connexes
+|tailleTritre=100% |couleur1=#EAFFDF|couleur2=#aaffaa}}
+{{Pied de portail}}
+
+<!-- Pour rajouter une case au portail, copiez/collez l'un des modèles "Composant", placez le ou vous voulez le voir apparaitre (en haut, frame gauche ou droite, en bas) et modifiez les paramètres en fonction de vos besoins. -->
+<!--Note : pas de sommaire (toc), pas de bouton "modifier" ajouté à chaque section -->
+__NOTOC__  __NOEDITSECTION__
+
+[[Catégorie:Page de portail ou de projet thématique|{{PAGENAME}}]]
+[[Catégorie:Portail:Mali]]
+
+[[en:Portal:Mali]]
+[[es:Portal:Malí]]
+[[pt:Portal:Mali]]
